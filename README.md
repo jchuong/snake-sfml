@@ -4,10 +4,11 @@
 * C++ 11
 * SFML 2.1
 
-``` make ``` then run snakes executable.
+``` make ``` then run ```snakes``` executable.
 
 ## Controls
 Up, down, left, right arrows
+
 Space to start/restart at respective screen
 
 ### Description
